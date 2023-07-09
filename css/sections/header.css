@@ -24,17 +24,18 @@
   padding-left: 30px;
 
   color: #fff;
+  font-size: 24px;
+  font-weight: 700;
   text-transform: uppercase;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  font-family: var(--playfair-display);
+  /* opacity: 1; */
 }
 
 .header__menu,
 .header__menu-mobile {
   padding: 20px;
 
-  flex: 1.235;
+  flex: 1.236;
   display: flex;
   align-items: center;
   justify-content: flex-end;
